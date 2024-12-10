@@ -19,7 +19,7 @@ TaskTrackerCLI is a simple and efficient command-line interface (CLI) applicatio
 1. **Clone the Repository**:
    ```sh
     git clone https://github.com/AndyHanzawa/TaskTracker.git
-    cd TaskTracker
+    cd TaskTracker\TaskTracker
    ```
 
 2. **Build the Project**:
@@ -74,10 +74,6 @@ Run the application from the command line:
     dotnet run -- list in-progress
    ```
     Output: List of tasks filtered by status
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
