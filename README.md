@@ -18,8 +18,8 @@ TaskTrackerCLI is a simple and efficient command-line interface (CLI) applicatio
 
 1. **Clone the Repository**:
    ```sh
-    git clone https://github.com/AndyHanzawa/TaskTrackerCLI.git
-    cd TaskTrackerCLI
+    git clone https://github.com/AndyHanzawa/TaskTracker.git
+    cd TaskTracker
    ```
 
 2. **Build the Project**:
