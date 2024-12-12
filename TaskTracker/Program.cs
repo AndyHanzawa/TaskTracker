@@ -9,11 +9,11 @@ namespace TaskTracker
     {
         static void Main(string[] args)
         {
-            //if (args.Length == 0)
-            //{
-            //    Console.WriteLine("Please provide a command.");
-            //    return;
-            //}
+            if (args.Length == 0)
+            {
+                Console.WriteLine("Please provide a command.");
+                return;
+            }
 
             var _taskService = new TaskService();
 
